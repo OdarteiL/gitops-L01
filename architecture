@@ -1,0 +1,3 @@
+Developer → GitHub Repo → ArgoCD → Kubernetes (Minikube)
+                  ↑
+            Source of Truth

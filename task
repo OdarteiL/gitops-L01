@@ -1,0 +1,1 @@
+Build a complete GitOps workflow where every commit to Git automatically triggers a Kubernetes deployment. You will install ArgoCD on a local Minikube cluster, connect it to a GitHub repository, and watch live reconciliation in action. By the end, you will understand the full GitOps loop: commit → detect → sync → deploy. 
